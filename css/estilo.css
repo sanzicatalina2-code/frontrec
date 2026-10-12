@@ -1,0 +1,21 @@
+body {background-image: url('../imagen/fondo.jpeg');
+ background-attachment: fixed;
+}
+
+h1 {color: brown;}
+
+
+.marron  {color: #714204;}
+
+.bordo {color: #A10606;}
+
+
+h1 {
+    font-family: 'Bebas Neue', 'Helvetica Neue', Arial, sans-serif; /* Tipografía sans-serif gruesa */
+    color: #563B20;               /* Rojo característico */
+    font-size: 4rem;              /* Tamaño grande para el título */
+    font-weight: bold;            /* Texto en negrita */
+    text-transform: uppercase;    /* Convierte el texto automáticamente a mayúsculas */
+    letter-spacing: 2px;          /* Espaciado ligeramente amplio entre letras */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra sutil para darle relieve */
+}
